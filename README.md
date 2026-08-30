@@ -89,5 +89,6 @@ Sistema local de recuperação de informações sobre a documentação do HTTPX.
 
 ### Aprendendo um projeto por vez. 🚀
 
-<img src="https://media1.tenor.com/m/P1DN5Ionz2AAAAAC/corvax-muzzy-in-gondoland.gif" width="430" alt="Corvax trabalhando no computador">
+<img src="./corvax.gif" width="430" alt="Corvax trabalhando no computador">
+
 </div>
